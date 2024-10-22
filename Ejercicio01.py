@@ -5,4 +5,3 @@ if x == contraseña.lower():
     print('Correcto')
 elif x != contraseña.lower():
     print('Error')
-    
